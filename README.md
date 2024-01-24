@@ -32,6 +32,3 @@ The Personalized Medicine Recommending System is a software solution designed to
 ```bash
 git clone https://github.com/gladyswambura/Personalized-Medicine-Recommending-System.git
 cd Personalized-Medicine-Recommending-System
-
-
-
